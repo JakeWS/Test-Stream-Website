@@ -1,0 +1,33 @@
+{
+  "streams": [
+    {
+      "title": "Unexpected Behavior",
+      "description": "I did not expect",
+      "userId": "103320452045311595924",
+      "id": 3
+    },
+    {
+      "title": "Progrmatic Navigation",
+      "description": "Hopefully you see this",
+      "userId": "103320452045311595924",
+      "id": 4
+    },
+    {
+      "title": "Formatted Create",
+      "description": "This was after making form",
+      "userId": "103320452045311595924",
+      "id": 5
+    },
+    {
+      "title": "Stream Before Edit | Stream After Edit",
+      "description": "Description Before Edit | Description After Edit",
+      "id": 6
+    },
+    {
+      "title": "Stream Before Edit 2 | After Edit",
+      "description": "Description 2 | After Edit",
+      "userId": "103320452045311595924",
+      "id": 7
+    }
+  ]
+}
